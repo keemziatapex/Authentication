@@ -16,8 +16,8 @@ Entra ID.<br />
 Assigned phone number as Authentication method for user Fausat Bolaji
 </p>
 <br />
-<p>
-<img width="1480" height="678" alt="image" src="https://github.com/userattachments/assets/e0d96c87-4df3-459a-88bb-44fcabafb150" />
+
+![image alt](https://github.com/keemziatapex/Authentication/blob/93cc9150eb12d157b2aa92ba018bd9ec5599366b/Screenshot%202026-06-19%20065706.png)
 </p>
 <p>
 Assigned phone number as Authentication method for user Khairat Abijo

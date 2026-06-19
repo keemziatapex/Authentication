@@ -9,8 +9,8 @@ Entra ID.<br />
 <h2>Operating Systems Used </h2>
 - Windows 11
 <h2>Authentication Methods </h2>
-<p>
-<img width="1497" height="772" alt="image" src="https://github.com/userattachments/assets/a5354ace-9dad-4583-90a3-2e0dfb74bad1" />
+
+![image alt](https://github.com/keemziatapex/Authentication/blob/9ce37a533dc1701e1aaaa408523343fe556d93ad/Screenshot%202026-06-19%20065521.png)
 </p>
 <p>
 Assigned phone number as Authentication method for user Fausat Bolaji

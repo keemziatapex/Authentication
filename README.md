@@ -1,5 +1,5 @@
 # Authentication in Microsoft Azure's Entra ID <p align="center">
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
+![IMAGE ALT](https://github.com/keemziatapex/Authentication/blob/36de3424fc9eeeb550ecdfe74c0a5f5134536be0/Screenshot%202026-06-19%20070034.png)
 </p>
 <h1>Authentication Methods for Users (Azure)</h1>
 This PROJECT outlines the process of assigning Authentication methods to user accounts in

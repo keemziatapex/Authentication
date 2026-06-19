@@ -2,7 +2,7 @@
 ![IMAGE ALT](https://github.com/keemziatapex/Authentication/blob/36de3424fc9eeeb550ecdfe74c0a5f5134536be0/Screenshot%202026-06-19%20070034.png)
 </p>
 <h1>Authentication Methods for Users (Azure)</h1>
-This PROJECT outlines the process of assigning Authentication methods to user accounts in
+This Lab outlines the process of assigning Authentication methods to user accounts in
 Entra ID.<br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
